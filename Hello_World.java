@@ -3,7 +3,7 @@ class HelloWorld {
 		if(args[0] != null){
 			System.out.println("Hello " + args[0]);
 		}else{
-			System.out.println("Incorrect input parameters");
+			System.out.println("Hello World!");
 		}
 	}
 }
